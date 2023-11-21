@@ -2,6 +2,8 @@
 
 GitHub Finder is a simple web application that allows you to search for GitHub accounts and view their details.
 
+![image](https://github.com/VirendrKumarYadav/github_finder/assets/87600216/af8b848a-9bb9-4947-a961-e02548680582)
+<h2>Host Link:-https://github-finder-o2nt4j8hb-virendra-yadavs-projects.vercel.app/ </h2>
 ## Table of Contents
 
 - [Demo](#demo)
