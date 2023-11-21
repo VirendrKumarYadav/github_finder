@@ -28,18 +28,25 @@ To get started with GitHub Finder, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/github-finder.git
+   git clone https://github.com/virendrKumarYadav/github-finder.git
 
 ## Usage
+
 Open the application in your web browser.
+
 Enter the GitHub username in the search bar.
+
 Click the "Search" button to retrieve and display the account details.
 
 ## Contributing
+
 If you'd like to contribute to this project, follow these steps:
 
-Fork the project.
-Create a new branch.
-Make your changes and commit them.
-Push to your fork and submit a pull request.
+ Fork the project.
+ 
+ Create a new branch.
+ 
+ Make your changes and commit them.
+ 
+ Push to your fork and submit a pull request.
 
